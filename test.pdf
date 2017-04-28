@@ -1,0 +1,95 @@
+%PDF-1.6
+%ÿÿÿÿ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [3 0 R ]
+>>
+endobj
+5 0 obj
+<<
+>>
+endobj
+6 0 obj
+<<
+/Type /Pattern
+/PatternType 1
+/PaintType 1
+/TilingType 2
+/BBox [0 0 20 20 ]
+/XStep 20
+/YStep 20
+/Resources 5 0 R
+/Length 66
+>>
+stream
+1 w
+1 0 0 RG
+0 0 10 10 re
+S
+0 1 1 rg
+1 w
+0 1 0 RG
+10 10 10 10 re
+B
+endstream
+endobj
+9 0 obj
+<<
+/Length 90
+>>
+stream
+0 1 0 rg
+2 w
+1 0 0 RG
+10 10 50 50 re
+B
+/Pattern cs
+/P1 scn
+1 w
+0 0 1 RG
+70 70 100 100 re
+B
+endstream
+endobj
+8 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI ]
+/Pattern << /P1 6 0 R >>
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 595.28 841.89 ]
+/Contents 9 0 R
+/Resources 8 0 R
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f
+0000000015 00000 n
+0000000064 00000 n
+0000000605 00000 n
+0000000122 00000 n
+0000000143 00000 n
+0000000512 00000 n
+0000000372 00000 n
+trailer
+<<
+/Size 10
+/Root 1 0 R
+>>
+startxref
+717
+%%EOF
