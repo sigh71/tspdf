@@ -193,6 +193,10 @@ class TilingPatternBrushRenderer implements IGraphicAction {
             resources: results.resources
         }
 
+        if (results.objects && results.objects.length > 0) {
+            objects.push(...results.objects);
+        }
+
         let patternId = getNextId();
         stream = [ "/Pattern cs", `/${this._brush.name} scn`].join("\n");
 
